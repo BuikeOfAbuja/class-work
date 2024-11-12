@@ -1,0 +1,109 @@
+
+body{
+   background-image: url(download\ \(1\).jpeg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+#one{color: black;
+    color: aqua;
+    background-color:blue; 
+    text-transform:unset;
+    text-decoration-style: dotted;
+    text-decoration-line: underline; 
+    text-decoration-color: rgb(43, 22, 71); 
+     ;
+} 
+#two{ 
+    color: blue;
+    
+}
+#three{
+ color: lawngreen;
+}
+#four{ 
+    color: yellow;
+    text-align: left;
+    padding: 10px;
+    cursor: -webkit-grab;
+}
+#five{
+    color:  blue;
+    shape-outside: border-box;
+    background-color: black;
+}
+#six{
+    color: yellow;
+    text-align: right;
+    
+}
+#seven{
+    color: black
+}
+#eight{
+    color: rgb(0, 255, 0)
+}
+#nine{
+    color:white
+}
+#ten{
+    color: red;
+}
+#eleven{
+    background-color: black;
+    color:yellow    
+}
+#twelve{
+    color: blue;
+}
+#thirteen{
+    color: aquamarine;
+    text-transform: uppercase;
+    width: 100cap;
+    height: 7cap;
+}
+#fourteen{
+    color: aquamarine;
+    text-transform: uppercase;
+    width: 5cap;
+}
+#fifteen{
+    color: aquamarine;
+    text-transform: uppercase;
+    width: 10cap;
+}
+#sixteen{
+    color: aquamarine;
+    text-transform: uppercase;
+    width: 9cap;
+}
+#seventeen{
+    color: aquamarine;
+    text-transform: uppercase;
+    width: 7cap;
+}
+#eighteen{
+    color: aquamarine;
+    width: 9cap;
+}
+#nineteen{
+    background-color: whitesmoke;
+    color: black;
+}
+#twenty{
+    background-color: black;
+    color: blue;
+    text-transform: uppercase; 
+}
+#twentyone{
+    color: yellow;
+    border-left: 30px;
+    text-align: left;
+}
+#twentytwo{
+    background-color: black;
+    color: blue;
+}
+#twentythree{
+    color: white;
+    text-align: left;
+}
